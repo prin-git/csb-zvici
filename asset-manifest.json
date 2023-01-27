@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://prin-git.github.io/csb-zvici/static/css/main.29f2b84a.chunk.css",
+    "main.js": "https://prin-git.github.io/csb-zvici/static/js/main.38b0c98b.chunk.js",
+    "main.js.map": "https://prin-git.github.io/csb-zvici/static/js/main.38b0c98b.chunk.js.map",
+    "runtime-main.js": "https://prin-git.github.io/csb-zvici/static/js/runtime-main.0704742c.js",
+    "runtime-main.js.map": "https://prin-git.github.io/csb-zvici/static/js/runtime-main.0704742c.js.map",
+    "static/js/2.f50dcc77.chunk.js": "https://prin-git.github.io/csb-zvici/static/js/2.f50dcc77.chunk.js",
+    "static/js/2.f50dcc77.chunk.js.map": "https://prin-git.github.io/csb-zvici/static/js/2.f50dcc77.chunk.js.map",
+    "static/js/3.dac384e1.chunk.js": "https://prin-git.github.io/csb-zvici/static/js/3.dac384e1.chunk.js",
+    "static/js/3.dac384e1.chunk.js.map": "https://prin-git.github.io/csb-zvici/static/js/3.dac384e1.chunk.js.map",
+    "index.html": "https://prin-git.github.io/csb-zvici/index.html",
+    "static/css/main.29f2b84a.chunk.css.map": "https://prin-git.github.io/csb-zvici/static/css/main.29f2b84a.chunk.css.map",
+    "static/js/2.f50dcc77.chunk.js.LICENSE.txt": "https://prin-git.github.io/csb-zvici/static/js/2.f50dcc77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0704742c.js",
+    "static/js/2.f50dcc77.chunk.js",
+    "static/css/main.29f2b84a.chunk.css",
+    "static/js/main.38b0c98b.chunk.js"
+  ]
+}
